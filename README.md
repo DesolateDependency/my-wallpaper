@@ -11,6 +11,12 @@ Artist: catzz \
 Resolution: 2000 x 1091 \
 Source: https://www.pixiv.net/en/artworks/72668704
 -
+![](catzz-girl_with_cats.png)
+[Picture](catzz-girl_with_cats.png) \
+Artist: catzz \
+Resolution: 1468 x 2000 \
+Source: https://www.pixiv.net/en/artworks/112901502
+-
 # Videos
 ![](Avolicis-I_wonder_how_players_doing.png)
 [Picture](Avolicis-I_wonder_how_players_doing.png) \
