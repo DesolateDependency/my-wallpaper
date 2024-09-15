@@ -17,6 +17,12 @@ Artist: catzz \
 Resolution: 1468 x 2000 \
 Source: https://www.pixiv.net/en/artworks/112901502
 -
+![](catzz-girl_drinking_at_window.jpg)
+[Picture](catzz-girl_drinking_at_window.jpg) \
+Artist: catzz \
+Resolution: 2400 x 1352 \
+Source: https://www.pixiv.net/en/artworks/81471534
+-
 # Videos
 ![](Avolicis-I_wonder_how_players_doing.png)
 [Picture](Avolicis-I_wonder_how_players_doing.png) \
