@@ -1,6 +1,6 @@
 # Pictures 
 > [!NOTE]
-> Not AI generated. Tested with [sightengine](https://sightengine.com/).
+> Not AI generated. Tested with [sightengine](https://sightengine.com/) and my eyes xD.
 
 ![](しおん-Girl_at_trainstation.png)
 Artist: しおん \
