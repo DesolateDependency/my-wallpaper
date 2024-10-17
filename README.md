@@ -27,8 +27,6 @@ Artist: Lifeline \
 Resolution: 4800 x 2280 \
 Source: https://www.pixiv.net/en/artworks/87535184
 -
-![](Aenami-girl_on_roof.jpg)
--
 # Videos
 ![](Avolicis-I_wonder_how_players_doing.png)
 [Video](Avolicis-I_wonder_how_players_doing.mp4) \
