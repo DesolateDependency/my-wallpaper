@@ -22,6 +22,11 @@ Artist: catzz \
 Resolution: 2400 x 1352 \
 Source: https://www.pixiv.net/en/artworks/81471534
 -
+![](girl_in_city_during_rain.jpg)
+Artist: catzz \
+Rsolution: 2008 x 1080 \
+Source: https://www.pixiv.net/en/artworks/100669875
+-
 ![](Lifeline-girl_in_rain.jpg)
 Artist: Lifeline \
 Resolution: 4800 x 2280 \
