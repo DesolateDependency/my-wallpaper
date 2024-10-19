@@ -12,6 +12,11 @@ Artist: あきま \
 Resolution: 1600 x 967 \
 Source: https://www.pixiv.net/en/artworks/68779457
 -
+![](girl_at_river.png)
+Artist: PANP \
+Resolution: 2883 x 2150 \
+Source: https://www.pixiv.net/en/artworks/80854582
+-
 ![](catzz-Girl_drinking.jpg)
 Artist: catzz \
 Resolution: 2000 x 1091 \
