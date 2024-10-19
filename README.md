@@ -7,6 +7,11 @@ Artist: しおん \
 Resolution: 2000 x 1136 \
 Source: https://www.pixiv.net/en/artworks/59919008
 -
+![](girl_in_trainstation.png)
+Artist: あきま \
+Resolution: 1600 x 967 \
+Source: https://www.pixiv.net/en/artworks/68779457
+-
 ![](catzz-Girl_drinking.jpg)
 Artist: catzz \
 Resolution: 2000 x 1091 \
